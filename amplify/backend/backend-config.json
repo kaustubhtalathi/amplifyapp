@@ -6,5 +6,12 @@
       "dependsOn": [],
       "customAuth": false
     }
+  },
+  "function": {
+    "amplifyapp5d1ad6be": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
   }
 }
